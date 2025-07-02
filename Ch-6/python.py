@@ -39,6 +39,23 @@ def loopCreator1():
     data=str(input("Enter Your Data \n "))
     num=int(input("Enter Your Number \n"))
     print(str('Result '+'\t'+'\t'+'='+'\t'+data+'\n')*num)
-loopCreator1()    
+# loopCreator1()    
 
 
+def addition():
+    first=int(input("Enter First Number\t=\t "))
+    second=int(input("Enter Second Number\t=\t"))
+    return first+second
+
+# print("Result\t=\t"+str(addition()))
+
+def checkDataType(data):
+    data=data
+    dataType=type(data)
+    print("The Data Type Of ",data," is "," = ",dataType)
+checkDataType(10)
+checkDataType(None)
+checkDataType("Hello world")
+checkDataType(10.00)
+checkDataType(True)
+checkDataType(False)
