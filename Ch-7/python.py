@@ -1,10 +1,10 @@
 def add_five(num):
     return 5+num
+val=int(input("Enter Number \t=\t"))
+result=add_five(val)
+print(result)
 
 
-# val=int(input("Enter Number \t=\t"))
-# result=add_five(val)
-# print(result)
 
 
 def checkDataType():
