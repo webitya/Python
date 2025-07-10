@@ -21,3 +21,46 @@ def printGrade(marks):
 # while i<=10:  Keyword/Stoping   
 #     print(i) logic 
 #     i+=1   Beheviour
+
+
+# Optional Paramenter
+
+def Add(x=0,y=3):
+    z=x+y
+    return z
+
+
+
+def App():
+    result=Add(5)
+    print("The addition is : ",result)
+# App()    
+
+
+# Recurision
+index=0
+def Message():
+    global index
+    index+=1
+    if(index<=20):
+         print(index,"Message")
+         Message()
+    else:
+        print("Ended")     
+# Message()
+
+
+# Table Of 10
+
+index=1
+def Table(a):
+    global index
+    if(index<=10):
+        print(f'{a} x {index} = {a*index}')
+        index+=1
+        Table(a)
+    else:
+        pass
+
+Table(30)
+
