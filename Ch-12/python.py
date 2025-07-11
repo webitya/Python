@@ -18,13 +18,6 @@ def FindIndex(data,element):
         return f'{element} in data list apppears {count} times'      
  
 
-
-
-
-
-
-
-
 def App():
     data=["Aditya01","Aditya02","Aditya03","Aditya04","Aditya05","Aditya01"]
     element=input("Enter Eleement You Want To Search : ")

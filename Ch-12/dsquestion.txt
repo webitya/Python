@@ -1,0 +1,26 @@
+Ds questions  
+1. Write a python program to copy a data from one variable to other? 
+2. Write a python program to swap two numbers ? 
+3. Write a python program to format dynamic data and static data ? 
+4. Write a python program to check the length validity of password ? 
+5. Write a python program to find the length of a string? 
+6. Write a python program to convert string in lowercase? 
+7. Write a python program to convert string in uppercase 
+8. Write a python program to print the first character of a string? 
+9. Write a python program to print the last character of a string 
+10. Write a python program to understand call by value or function 
+call by passing values   
+11. Write a python program to understand optional parameters 
+12. Write a python program to call a function multiple times and 
+produce different types of result   
+13. Write a python program to understand recursion  a function that 
+calls itself  
+14. Write a python program to print the table of user input number 
+using recursion   
+15. Write a python program to create a list. 
+16. Write a python program to create a list and print with index data 
+17. Write a python program to print all the data from list using 
+recursion 
+18. Write a python program to find the index of an element or item 
+using the list 
+19. Write a python program to remove white space from user input  
